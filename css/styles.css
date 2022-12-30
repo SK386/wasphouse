@@ -7714,7 +7714,7 @@ textarea.form-control-lg {
 }
 
 /* rtl:end:remove */
-.text-primary {
+.text-warning {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
 }
@@ -7805,7 +7805,7 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
 }
 
-.bg-primary {
+.bg-warning {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
 }
