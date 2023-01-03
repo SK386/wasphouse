@@ -776,7 +776,6 @@ progress {
   flex: 0 0 auto;
   width: 83.33333333%;
 }
-
 .col-11 {
   flex: 0 0 auto;
   width: 91.66666667%;
@@ -3945,6 +3944,8 @@ textarea.form-control-lg {
   color: #0d6efd;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  font-family:'Roboto', serif;
+
 }
 @media (prefers-reduced-motion: reduce) {
   .nav-link {
@@ -11307,4 +11308,11 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   min-height: 15rem;
+}
+.titulo{
+font-family: alata,  serif;
+
+}
+.menu{
+	font-family:'Roboto';
 }
